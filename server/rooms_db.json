@@ -1,0 +1,51 @@
+{
+  "NOOO": {
+    "users": [],
+    "messages": [],
+    "createdAt": 1775106773174,
+    "lastActive": 1775107642313
+  },
+  "GWEN294": {
+    "users": [],
+    "messages": [
+      {
+        "username": "TestHero",
+        "text": "hi",
+        "timestamp": "10:52:27 am",
+        "serverTime": 1775107347334,
+        "type": "user"
+      },
+      {
+        "username": "TestHero",
+        "text": "Hello multiverse",
+        "timestamp": "10:54:24 am",
+        "serverTime": 1775107464290,
+        "type": "user"
+      },
+      {
+        "username": "TestHero",
+        "text": "This is a reply",
+        "timestamp": "10:55:38 am",
+        "serverTime": 1775107538583,
+        "type": "user",
+        "replyTo": {
+          "username": "TestHero",
+          "text": "Hello multiverse"
+        }
+      }
+    ],
+    "createdAt": 1775107156403,
+    "lastActive": 1775107641986
+  },
+  "CARNG255": {
+    "users": [
+      [
+        "0-IYo2o7WCEJwuICAAAB",
+        "aysuh"
+      ]
+    ],
+    "messages": [],
+    "createdAt": 1775119739415,
+    "lastActive": 1775119749145
+  }
+}
